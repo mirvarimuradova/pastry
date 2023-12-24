@@ -147,7 +147,6 @@ const CakeChristmas = () => {
           
       </div>
     }</SwiperSlide>
-    
      <SwiperSlide>{<div>
          
          <div className='card' key={data}>
