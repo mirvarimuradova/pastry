@@ -42,12 +42,13 @@ const Vacancies = () => {
     <div>
       <h2>Vacancies</h2>
       <input
+        className='inputSearch'
         type="text"
         placeholder="...search"
         value={searchTerm}
         onChange={handleSearchChange}
       />
-      <button>Search</button>
+      <button >Search</button>
 <div className="vacancies">
 {filteredVacancies.map((vacancy, index) => (
         <div key={index} className='vacancy'>

@@ -79,7 +79,7 @@ const Main = () => {
           <li><a href='#chrismas'>Chrismas Cakes</a>  </li>
           <li><a href='#fruit'> Fruity Cake</a></li>
           <li><a href='#chocolate'> Chocolate Cakes</a></li>
-          <li><a href='#croissants'>Croissants</a></li>
+          
         </ul>
       </main>
      
